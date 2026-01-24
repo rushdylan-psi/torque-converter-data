@@ -6,7 +6,7 @@
     "model": "F-150",
     "trim": "XLT 5.4L 3V",
     "engineId": "ford_54_3v",
-    "engineFile": "engines/ford_54_3v.json"
+    "engineFile": "lookups/engines/ford_54_3v.json"
   },
   {
     "id": "2008_ford_expedition_limited_54_3v",
@@ -15,6 +15,6 @@
     "model": "Expedition",
     "trim": "Limited 5.4L 3V",
     "engineId": "ford_54_3v",
-    "engineFile": "engines/ford_54_3v.json"
+    "engineFile": "lookups/engines/ford_54_3v.json"
   }
 ]
