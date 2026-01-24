@@ -1,0 +1,20 @@
+[
+  {
+    "id": "2008_ford_f150_xlt_54_3v",
+    "year": "2008",
+    "make": "Ford",
+    "model": "F-150",
+    "trim": "XLT 5.4L 3V",
+    "engineId": "ford_54_3v",
+    "engineFile": "engines/ford_54_3v.json"
+  },
+  {
+    "id": "2008_ford_expedition_limited_54_3v",
+    "year": "2008",
+    "make": "Ford",
+    "model": "Expedition",
+    "trim": "Limited 5.4L 3V",
+    "engineId": "ford_54_3v",
+    "engineFile": "engines/ford_54_3v.json"
+  }
+]
