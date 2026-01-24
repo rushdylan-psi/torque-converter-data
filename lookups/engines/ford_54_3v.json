@@ -1,0 +1,29 @@
+{
+  "engineId": "ford_54_3v",
+  "displayName": "Ford 5.4L Triton 3V",
+  "manufacturer": "Ford",
+  "family": "Modular",
+  "displacementL": 5.4,
+  "procedures": [
+    {
+      "procedureId": "cylinder_head_bolts",
+      "title": "Cylinder Head Bolts",
+      "category": "Top End",
+      "verified": false,
+      "sourceNote": "Placeholder values — replace with verified service manual spec.",
+      "steps": [
+        {
+          "step": 1,
+          "label": "Head bolts (all)",
+          "spec": {
+            "torque": { "ftlb": 30, "nm": 41 },
+            "angleDeg": [90, 90]
+          },
+          "sequenceNote": "Follow tightening sequence diagram.",
+          "conditions": ["Light oil on threads/under-head unless otherwise specified"]
+        }
+      ],
+      "images": []
+    }
+  ]
+}
