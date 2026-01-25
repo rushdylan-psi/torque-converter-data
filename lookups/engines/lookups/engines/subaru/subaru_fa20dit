@@ -1,0 +1,23 @@
+{
+  "engineId": "subaru_fa20dit",
+  "displayName": "Subaru FA20DIT (USDM Turbo)",
+  "procedures": [
+    { "id": "fa20dit_head_bolts", "title": "Cylinder Head Bolts", "category": "Cylinder Head", "verified": false, "sourceNote": "TODO: add factory spec source", "steps": [
+      { "id": "fa20dit_head_bolts_s1", "step": 1, "label": "TODO: add torque + angle stages + sequence", "spec": { "torque": { "ftlb": null, "nm": null }, "angleDeg": [] }, "sequenceNote": "", "conditions": [] }
+    ]},
+    { "id": "fa20dit_vvt_solenoids", "title": "VVT Solenoid Bolts", "category": "Cylinder Head", "verified": false, "sourceNote": "", "steps": [
+      { "id": "fa20dit_vvt_solenoids_s1", "step": 1, "label": "TODO", "spec": { "torque": { "ftlb": null, "nm": null }, "angleDeg": [] }, "sequenceNote": "", "conditions": [] }
+    ]},
+
+    { "id": "fa20dit_oil_pan", "title": "Oil Pan Bolts", "category": "Block", "verified": false, "sourceNote": "", "steps": [
+      { "id": "fa20dit_oil_pan_s1", "step": 1, "label": "TODO", "spec": { "torque": { "ftlb": null, "nm": null }, "angleDeg": [] }, "sequenceNote": "", "conditions": [] }
+    ]},
+    { "id": "fa20dit_front_cover", "title": "Front Timing Cover Bolts", "category": "Block", "verified": false, "sourceNote": "", "steps": [
+      { "id": "fa20dit_front_cover_s1", "step": 1, "label": "TODO", "spec": { "torque": { "ftlb": null, "nm": null }, "angleDeg": [] }, "sequenceNote": "", "conditions": [] }
+    ]},
+
+    { "id": "fa20dit_flywheel", "title": "Flywheel / Flexplate Bolts", "category": "Rotating Assembly", "verified": false, "sourceNote": "", "steps": [
+      { "id": "fa20dit_flywheel_s1", "step": 1, "label": "TODO", "spec": { "torque": { "ftlb": null, "nm": null }, "angleDeg": [] }, "sequenceNote": "", "conditions": ["Threadlocker often required"] }
+    ]}
+  ]
+}
