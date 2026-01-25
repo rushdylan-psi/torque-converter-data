@@ -4,7 +4,7 @@
     "year": "2002",
     "make": "Subaru",
     "model": "Impreza WRX",
-    "trim": "WRX EJ205 Turbo",
+    "trim": "WRX",
     "engineId": "subaru_ej205",
     "engineFile": "lookups/engines/subaru_ej205.json"
   },
@@ -13,7 +13,7 @@
     "year": "2005",
     "make": "Saab",
     "model": "9-2X",
-    "trim": "Aero EJ205 Turbo",
+    "trim": "Aero",
     "engineId": "subaru_ej205",
     "engineFile": "lookups/engines/subaru_ej205.json"
   },
@@ -23,7 +23,7 @@
     "year": "2006",
     "make": "Subaru",
     "model": "Impreza WRX",
-    "trim": "WRX EJ255 Turbo",
+    "trim": "WRX",
     "engineId": "subaru_ej255",
     "engineFile": "lookups/engines/subaru_ej255.json"
   },
@@ -32,7 +32,7 @@
     "year": "2005",
     "make": "Subaru",
     "model": "Legacy",
-    "trim": "GT EJ255 Turbo",
+    "trim": "GT",
     "engineId": "subaru_ej255",
     "engineFile": "lookups/engines/subaru_ej255.json"
   },
@@ -41,7 +41,7 @@
     "year": "2004",
     "make": "Subaru",
     "model": "Forester",
-    "trim": "XT EJ255 Turbo",
+    "trim": "XT",
     "engineId": "subaru_ej255",
     "engineFile": "lookups/engines/subaru_ej255.json"
   },
@@ -51,7 +51,7 @@
     "year": "2004",
     "make": "Subaru",
     "model": "Impreza WRX STI",
-    "trim": "STI EJ257 Turbo",
+    "trim": "STI",
     "engineId": "subaru_ej257",
     "engineFile": "lookups/engines/subaru_ej257.json"
   },
@@ -117,7 +117,7 @@
     "year": "2020",
     "make": "Subaru",
     "model": "Outback",
-    "trim": "XT FA24DIT Turbo",
+    "trim": "XT",
     "engineId": "subaru_fa24dit",
     "engineFile": "lookups/engines/subaru_fa24dit.json"
   },
@@ -126,7 +126,7 @@
     "year": "2020",
     "make": "Subaru",
     "model": "Legacy",
-    "trim": "XT FA24DIT Turbo",
+    "trim": "XT",
     "engineId": "subaru_fa24dit",
     "engineFile": "lookups/engines/subaru_fa24dit.json"
   },
