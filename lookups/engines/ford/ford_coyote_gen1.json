@@ -1,0 +1,23 @@
+{
+  "engineId": "ford_coyote_gen1",
+  "displayName": "Ford 5.0L Coyote Gen 1",
+  "procedures": [
+    {
+      "id": "coyote_gen1_head_bolts",
+      "title": "Cylinder Head Bolts",
+      "category": "Cylinder Head",
+      "verified": false,
+      "sourceNote": "TODO: add factory spec source",
+      "steps": [
+        {
+          "id": "coyote_gen1_head_bolts_s1",
+          "step": 1,
+          "label": "TODO: add torque stages + sequence",
+          "spec": { "torque": { "ftlb": null, "nm": null }, "angleDeg": [] },
+          "sequenceNote": "Add diagram later",
+          "conditions": []
+        }
+      ]
+    }
+  ]
+}
