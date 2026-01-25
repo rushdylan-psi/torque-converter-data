@@ -1,0 +1,29 @@
+{
+  "engineId": "subaru_ej257",
+  "displayName": "Subaru EJ257 (USDM WRX STI)",
+  "procedures": [
+    { "id": "ej257_head_bolts", "title": "Cylinder Head Bolts", "category": "Cylinder Head", "verified": false, "sourceNote": "TODO: add STI factory spec source", "steps": [
+      { "id": "ej257_head_bolts_s1", "step": 1, "label": "TODO: add torque stages + sequence", "spec": { "torque": { "ftlb": null, "nm": null }, "angleDeg": [] }, "sequenceNote": "Add diagram + tightening order later", "conditions": ["STI-specific procedure may differ by year"] }
+    ]},
+    { "id": "ej257_camshaft_bolts", "title": "Camshaft Bolts", "category": "Cylinder Head", "verified": false, "sourceNote": "", "steps": [
+      { "id": "ej257_camshaft_bolts_s1", "step": 1, "label": "TODO", "spec": { "torque": { "ftlb": null, "nm": null }, "angleDeg": [] }, "sequenceNote": "", "conditions": [] }
+    ]},
+    { "id": "ej257_cam_gear_bolts", "title": "Camshaft Gear Bolts", "category": "Cylinder Head", "verified": false, "sourceNote": "", "steps": [
+      { "id": "ej257_cam_gear_bolts_s1", "step": 1, "label": "TODO", "spec": { "torque": { "ftlb": null, "nm": null }, "angleDeg": [] }, "sequenceNote": "", "conditions": [] }
+    ]},
+    { "id": "ej257_valve_cover_bolts", "title": "Valve Cover Bolts", "category": "Cylinder Head", "verified": false, "sourceNote": "", "steps": [
+      { "id": "ej257_valve_cover_bolts_s1", "step": 1, "label": "TODO", "spec": { "torque": { "ftlb": null, "nm": null }, "angleDeg": [] }, "sequenceNote": "", "conditions": [] }
+    ]},
+
+    { "id": "ej257_mains", "title": "Main Bearing Caps", "category": "Block", "verified": false, "sourceNote": "", "steps": [
+      { "id": "ej257_mains_s1", "step": 1, "label": "TODO: add stages + order", "spec": { "torque": { "ftlb": null, "nm": null }, "angleDeg": [] }, "sequenceNote": "", "conditions": [] }
+    ]},
+
+    { "id": "ej257_rod_bolts", "title": "Connecting Rod Bolts", "category": "Rotating Assembly", "verified": false, "sourceNote": "", "steps": [
+      { "id": "ej257_rod_bolts_s1", "step": 1, "label": "TODO (OEM vs ARP differs)", "spec": { "torque": { "ftlb": null, "nm": null }, "angleDeg": [] }, "sequenceNote": "", "conditions": [] }
+    ]},
+    { "id": "ej257_flywheel", "title": "Flywheel / Flexplate Bolts", "category": "Rotating Assembly", "verified": false, "sourceNote": "", "steps": [
+      { "id": "ej257_flywheel_s1", "step": 1, "label": "TODO", "spec": { "torque": { "ftlb": null, "nm": null }, "angleDeg": [] }, "sequenceNote": "Star pattern if applicable", "conditions": ["Threadlocker often required"] }
+    ]}
+  ]
+}
