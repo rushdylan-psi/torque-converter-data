@@ -1,0 +1,188 @@
+[
+  // =========================
+  // FORD — Modular / Triton
+  // =========================
+  {
+    "engineId": "ford_modular_54_2v",
+    "displayName": "Ford 5.4L Modular 2V",
+    "manufacturer": "Ford",
+    "family": "Modular",
+    "variant": "5.4 2V",
+    "market": "USDM",
+    "engineFile": "lookups/engines/ford/ford_modular_54_2v.json"
+  },
+  {
+    "engineId": "ford_modular_54_3v",
+    "displayName": "Ford 5.4L Modular 3V (Triton)",
+    "manufacturer": "Ford",
+    "family": "Modular",
+    "variant": "5.4 3V",
+    "market": "USDM",
+    "engineFile": "lookups/engines/ford/ford_modular_54_3v.json"
+  },
+
+  // =========================
+  // FORD — Coyote
+  // =========================
+  {
+    "engineId": "ford_coyote_gen1",
+    "displayName": "Ford 5.0L Coyote Gen 1 (2011–2014)",
+    "manufacturer": "Ford",
+    "family": "Coyote",
+    "variant": "Gen 1",
+    "market": "USDM",
+    "engineFile": "lookups/engines/ford/ford_coyote_gen1.json"
+  },
+  {
+    "engineId": "ford_coyote_gen2",
+    "displayName": "Ford 5.0L Coyote Gen 2 (2015–2017)",
+    "manufacturer": "Ford",
+    "family": "Coyote",
+    "variant": "Gen 2",
+    "market": "USDM",
+    "engineFile": "lookups/engines/ford/ford_coyote_gen2.json"
+  },
+  {
+    "engineId": "ford_coyote_gen3",
+    "displayName": "Ford 5.0L Coyote Gen 3 (2018–2023)",
+    "manufacturer": "Ford",
+    "family": "Coyote",
+    "variant": "Gen 3",
+    "market": "USDM",
+    "engineFile": "lookups/engines/ford/ford_coyote_gen3.json"
+  },
+  {
+    "engineId": "ford_coyote_gen4",
+    "displayName": "Ford 5.0L Coyote Gen 4 (2024+)",
+    "manufacturer": "Ford",
+    "family": "Coyote",
+    "variant": "Gen 4",
+    "market": "USDM",
+    "engineFile": "lookups/engines/ford/ford_coyote_gen4.json"
+  },
+
+  // =========================
+  // GM — LS Family (common high-value variants)
+  // =========================
+  {
+    "engineId": "gm_ls1",
+    "displayName": "GM LS1 (5.7L)",
+    "manufacturer": "GM",
+    "family": "LS",
+    "variant": "LS1",
+    "market": "USDM",
+    "engineFile": "lookups/engines/gm/gm_ls1.json"
+  },
+  {
+    "engineId": "gm_ls2",
+    "displayName": "GM LS2 (6.0L)",
+    "manufacturer": "GM",
+    "family": "LS",
+    "variant": "LS2",
+    "market": "USDM",
+    "engineFile": "lookups/engines/gm/gm_ls2.json"
+  },
+  {
+    "engineId": "gm_ls3",
+    "displayName": "GM LS3 (6.2L)",
+    "manufacturer": "GM",
+    "family": "LS",
+    "variant": "LS3",
+    "market": "USDM",
+    "engineFile": "lookups/engines/gm/gm_ls3.json"
+  },
+  {
+    "engineId": "gm_ls7",
+    "displayName": "GM LS7 (7.0L)",
+    "manufacturer": "GM",
+    "family": "LS",
+    "variant": "LS7",
+    "market": "USDM",
+    "engineFile": "lookups/engines/gm/gm_ls7.json"
+  },
+  {
+    "engineId": "gm_ls9",
+    "displayName": "GM LS9 (6.2L Supercharged)",
+    "manufacturer": "GM",
+    "family": "LS",
+    "variant": "LS9",
+    "market": "USDM",
+    "engineFile": "lookups/engines/gm/gm_ls9.json"
+  },
+  {
+    "engineId": "gm_lsa",
+    "displayName": "GM LSA (6.2L Supercharged)",
+    "manufacturer": "GM",
+    "family": "LS",
+    "variant": "LSA",
+    "market": "USDM",
+    "engineFile": "lookups/engines/gm/gm_lsa.json"
+  },
+  {
+    "engineId": "gm_lsx",
+    "displayName": "GM LSX (Performance / Aftermarket Block)",
+    "manufacturer": "GM",
+    "family": "LS",
+    "variant": "LSX",
+    "market": "USDM",
+    "engineFile": "lookups/engines/gm/gm_lsx.json"
+  },
+
+  // =========================
+  // SUBARU — EJ / FA (USDM-relevant)
+  // =========================
+  {
+    "engineId": "subaru_ej205",
+    "displayName": "Subaru EJ205 (USDM WRX 02–05)",
+    "manufacturer": "Subaru",
+    "family": "EJ",
+    "variant": "EJ205",
+    "market": "USDM",
+    "engineFile": "lookups/engines/subaru/subaru_ej205.json"
+  },
+  {
+    "engineId": "subaru_ej255",
+    "displayName": "Subaru EJ255 (USDM Turbo)",
+    "manufacturer": "Subaru",
+    "family": "EJ",
+    "variant": "EJ255",
+    "market": "USDM",
+    "engineFile": "lookups/engines/subaru/subaru_ej255.json"
+  },
+  {
+    "engineId": "subaru_ej257",
+    "displayName": "Subaru EJ257 (USDM STI)",
+    "manufacturer": "Subaru",
+    "family": "EJ",
+    "variant": "EJ257",
+    "market": "USDM",
+    "engineFile": "lookups/engines/subaru/subaru_ej257.json"
+  },
+  {
+    "engineId": "subaru_fa20d",
+    "displayName": "Subaru FA20D (BRZ / FR-S / 86)",
+    "manufacturer": "Subaru",
+    "family": "FA",
+    "variant": "FA20D",
+    "market": "USDM",
+    "engineFile": "lookups/engines/subaru/subaru_fa20d.json"
+  },
+  {
+    "engineId": "subaru_fa20dit",
+    "displayName": "Subaru FA20DIT (USDM Turbo)",
+    "manufacturer": "Subaru",
+    "family": "FA",
+    "variant": "FA20DIT",
+    "market": "USDM",
+    "engineFile": "lookups/engines/subaru/subaru_fa20dit.json"
+  },
+  {
+    "engineId": "subaru_fa24dit",
+    "displayName": "Subaru FA24DIT (USDM Turbo)",
+    "manufacturer": "Subaru",
+    "family": "FA",
+    "variant": "FA24DIT",
+    "market": "USDM",
+    "engineFile": "lookups/engines/subaru/subaru_fa24dit.json"
+  }
+]
