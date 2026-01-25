@@ -1,0 +1,105 @@
+{
+  "engineId": "ford_54_3v",
+  "displayName": "Ford 5.4L Triton 3V",
+  "manufacturer": "Ford",
+  "family": "Modular",
+  "variant": "5.4 3V",
+  "market": "USDM",
+  "notes": "MOCK DATA ONLY — for UI testing. Do not use for real assembly.",
+  "procedures": [
+    {
+      "id": "head_bolts",
+      "title": "Cylinder Head Bolts",
+      "category": "Cylinder Head",
+      "verified": false,
+      "warning": "MOCK DATA ONLY",
+      "diagram": {
+        "caption": "Head bolt tightening sequence (mock)",
+        "imageUrl": ""
+      },
+      "steps": [
+        {
+          "id": "hb_s1",
+          "step": 1,
+          "fastener": "Cylinder head bolts (all)",
+          "torque": { "ftLb": 30, "nm": 41 },
+          "angleDeg": [],
+          "note": "Stage 1: snug all bolts in sequence.",
+          "source": "MOCK"
+        },
+        {
+          "id": "hb_s2",
+          "step": 2,
+          "fastener": "Cylinder head bolts (all)",
+          "torque": { "ftLb": null, "nm": null },
+          "angleDeg": [90],
+          "note": "Stage 2: angle torque in sequence.",
+          "source": "MOCK"
+        },
+        {
+          "id": "hb_s3",
+          "step": 3,
+          "fastener": "Cylinder head bolts (all)",
+          "torque": { "ftLb": null, "nm": null },
+          "angleDeg": [90],
+          "note": "Stage 3: second angle pass in sequence.",
+          "source": "MOCK"
+        }
+      ]
+    },
+    {
+      "id": "main_bearings",
+      "title": "Main Bearing Caps",
+      "category": "Block",
+      "verified": false,
+      "warning": "MOCK DATA ONLY",
+      "steps": [
+        {
+          "id": "mb_s1",
+          "step": 1,
+          "fastener": "Main cap bolts (inner)",
+          "torque": { "ftLb": 25, "nm": 34 },
+          "angleDeg": [],
+          "note": "Torque inner bolts first.",
+          "source": "MOCK"
+        },
+        {
+          "id": "mb_s2",
+          "step": 2,
+          "fastener": "Main cap bolts (outer)",
+          "torque": { "ftLb": 15, "nm": 20 },
+          "angleDeg": [],
+          "note": "Torque outer bolts second.",
+          "source": "MOCK"
+        },
+        {
+          "id": "mb_s3",
+          "step": 3,
+          "fastener": "Main cap bolts (all)",
+          "torque": { "ftLb": null, "nm": null },
+          "angleDeg": [90],
+          "note": "Final angle pass.",
+          "source": "MOCK"
+        }
+      ]
+    },
+    {
+      "id": "valve_cover",
+      "title": "Valve Cover",
+      "category": "Cylinder Head",
+      "verified": false,
+      "warning": "MOCK DATA ONLY",
+      "steps": [
+        {
+          "id": "vc_s1",
+          "step": 1,
+          "fastener": "Valve cover bolts",
+          "torque": { "ftLb": 8, "nm": 11 },
+          "angleDeg": [],
+          "note": "Evenly snug bolts; do not overtighten.",
+          "source": "MOCK"
+        }
+      ]
+    }
+  ]
+}
