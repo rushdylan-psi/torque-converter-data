@@ -6,7 +6,7 @@
     "model": "Corvette",
     "trim": "LS-based",
     "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
+    "engineFile": "engines/gm/gm_ls.json"
   },
   {
     "id": "2002_chevrolet_silverado_ls_based",
@@ -15,7 +15,7 @@
     "model": "Silverado",
     "trim": "LS-based",
     "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
+    "engineFile": "engines/gm/gm_ls.json"
   },
   {
     "id": "2002_chevrolet_suburban_ls_based",
@@ -24,7 +24,7 @@
     "model": "Suburban",
     "trim": "LS-based",
     "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
+    "engineFile": "engines/gm/gm_ls.json"
   },
   {
     "id": "2002_subaru_wrx_base",
@@ -33,405 +33,64 @@
     "model": "WRX",
     "trim": "Base",
     "engineId": "subaru_ej205",
-    "engineFile": "lookups/engines/subaru/subaru_ej205.json"
+    "engineFile": "engines/subaru/subaru_ej205.json"
   },
+
   {
-    "id": "2003_chevrolet_corvette_ls_based",
-    "year": "2003",
-    "make": "Chevrolet",
-    "model": "Corvette",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2003_chevrolet_silverado_ls_based",
-    "year": "2003",
-    "make": "Chevrolet",
-    "model": "Silverado",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2003_chevrolet_suburban_ls_based",
-    "year": "2003",
-    "make": "Chevrolet",
-    "model": "Suburban",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2003_subaru_wrx_base",
-    "year": "2003",
-    "make": "Subaru",
-    "model": "WRX",
-    "trim": "Base",
-    "engineId": "subaru_ej205",
-    "engineFile": "lookups/engines/subaru/subaru_ej205.json"
-  },
-  {
-    "id": "2004_chevrolet_corvette_ls_based",
-    "year": "2004",
-    "make": "Chevrolet",
-    "model": "Corvette",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2004_chevrolet_silverado_ls_based",
-    "year": "2004",
-    "make": "Chevrolet",
-    "model": "Silverado",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2004_chevrolet_suburban_ls_based",
-    "year": "2004",
-    "make": "Chevrolet",
-    "model": "Suburban",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2004_ford_f_150_54l_3v",
+    "id": "2004_ford_f-150_54l_3v",
     "year": "2004",
     "make": "Ford",
     "model": "F-150",
     "trim": "5.4L 3V",
-    "engineId": "ford_modular_54_3v",
-    "engineFile": "lookups/engines/ford/ford_modular_54_3v.json"
+    "engineId": "ford_54_3v",
+    "engineFile": "engines/ford/ford_54_3v.json"
   },
   {
-    "id": "2004_subaru_forester_xt",
-    "year": "2004",
-    "make": "Subaru",
-    "model": "Forester",
-    "trim": "XT",
-    "engineId": "subaru_ej255",
-    "engineFile": "lookups/engines/subaru/subaru_ej255.json"
-  },
-  {
-    "id": "2004_subaru_wrx_base",
-    "year": "2004",
-    "make": "Subaru",
-    "model": "WRX",
-    "trim": "Base",
-    "engineId": "subaru_ej205",
-    "engineFile": "lookups/engines/subaru/subaru_ej205.json"
-  },
-  {
-    "id": "2004_subaru_wrx_sti",
-    "year": "2004",
-    "make": "Subaru",
-    "model": "WRX",
-    "trim": "STI",
-    "engineId": "subaru_ej257",
-    "engineFile": "lookups/engines/subaru/subaru_ej257.json"
-  },
-  {
-    "id": "2005_chevrolet_corvette_ls_based",
-    "year": "2005",
-    "make": "Chevrolet",
-    "model": "Corvette",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2005_chevrolet_silverado_ls_based",
-    "year": "2005",
-    "make": "Chevrolet",
-    "model": "Silverado",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2005_chevrolet_suburban_ls_based",
-    "year": "2005",
-    "make": "Chevrolet",
-    "model": "Suburban",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2005_ford_f_150_54l_3v",
+    "id": "2005_ford_f-150_54l_3v",
     "year": "2005",
     "make": "Ford",
     "model": "F-150",
     "trim": "5.4L 3V",
-    "engineId": "ford_modular_54_3v",
-    "engineFile": "lookups/engines/ford/ford_modular_54_3v.json"
+    "engineId": "ford_54_3v",
+    "engineFile": "engines/ford/ford_54_3v.json"
   },
   {
-    "id": "2005_subaru_forester_xt",
-    "year": "2005",
-    "make": "Subaru",
-    "model": "Forester",
-    "trim": "XT",
-    "engineId": "subaru_ej255",
-    "engineFile": "lookups/engines/subaru/subaru_ej255.json"
-  },
-  {
-    "id": "2005_subaru_wrx_base",
-    "year": "2005",
-    "make": "Subaru",
-    "model": "WRX",
-    "trim": "Base",
-    "engineId": "subaru_ej205",
-    "engineFile": "lookups/engines/subaru/subaru_ej205.json"
-  },
-  {
-    "id": "2005_subaru_wrx_sti",
-    "year": "2005",
-    "make": "Subaru",
-    "model": "WRX",
-    "trim": "STI",
-    "engineId": "subaru_ej257",
-    "engineFile": "lookups/engines/subaru/subaru_ej257.json"
-  },
-  {
-    "id": "2006_chevrolet_corvette_ls_based",
-    "year": "2006",
-    "make": "Chevrolet",
-    "model": "Corvette",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2006_chevrolet_silverado_ls_based",
-    "year": "2006",
-    "make": "Chevrolet",
-    "model": "Silverado",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2006_chevrolet_suburban_ls_based",
-    "year": "2006",
-    "make": "Chevrolet",
-    "model": "Suburban",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2006_ford_f_150_54l_3v",
+    "id": "2006_ford_f-150_54l_3v",
     "year": "2006",
     "make": "Ford",
     "model": "F-150",
     "trim": "5.4L 3V",
-    "engineId": "ford_modular_54_3v",
-    "engineFile": "lookups/engines/ford/ford_modular_54_3v.json"
+    "engineId": "ford_54_3v",
+    "engineFile": "engines/ford/ford_54_3v.json"
   },
   {
-    "id": "2006_subaru_forester_xt",
-    "year": "2006",
-    "make": "Subaru",
-    "model": "Forester",
-    "trim": "XT",
-    "engineId": "subaru_ej255",
-    "engineFile": "lookups/engines/subaru/subaru_ej255.json"
-  },
-  {
-    "id": "2006_subaru_wrx_base",
-    "year": "2006",
-    "make": "Subaru",
-    "model": "WRX",
-    "trim": "Base",
-    "engineId": "subaru_ej255",
-    "engineFile": "lookups/engines/subaru/subaru_ej255.json"
-  },
-  {
-    "id": "2006_subaru_wrx_sti",
-    "year": "2006",
-    "make": "Subaru",
-    "model": "WRX",
-    "trim": "STI",
-    "engineId": "subaru_ej257",
-    "engineFile": "lookups/engines/subaru/subaru_ej257.json"
-  },
-  {
-    "id": "2007_chevrolet_corvette_ls_based",
-    "year": "2007",
-    "make": "Chevrolet",
-    "model": "Corvette",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2007_chevrolet_silverado_ls_based",
-    "year": "2007",
-    "make": "Chevrolet",
-    "model": "Silverado",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2007_chevrolet_suburban_ls_based",
-    "year": "2007",
-    "make": "Chevrolet",
-    "model": "Suburban",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2007_ford_f_150_54l_3v",
+    "id": "2007_ford_f-150_54l_3v",
     "year": "2007",
     "make": "Ford",
     "model": "F-150",
     "trim": "5.4L 3V",
-    "engineId": "ford_modular_54_3v",
-    "engineFile": "lookups/engines/ford/ford_modular_54_3v.json"
+    "engineId": "ford_54_3v",
+    "engineFile": "engines/ford/ford_54_3v.json"
   },
   {
-    "id": "2007_subaru_forester_xt",
-    "year": "2007",
-    "make": "Subaru",
-    "model": "Forester",
-    "trim": "XT",
-    "engineId": "subaru_ej255",
-    "engineFile": "lookups/engines/subaru/subaru_ej255.json"
-  },
-  {
-    "id": "2007_subaru_wrx_base",
-    "year": "2007",
-    "make": "Subaru",
-    "model": "WRX",
-    "trim": "Base",
-    "engineId": "subaru_ej255",
-    "engineFile": "lookups/engines/subaru/subaru_ej255.json"
-  },
-  {
-    "id": "2007_subaru_wrx_sti",
-    "year": "2007",
-    "make": "Subaru",
-    "model": "WRX",
-    "trim": "STI",
-    "engineId": "subaru_ej257",
-    "engineFile": "lookups/engines/subaru/subaru_ej257.json"
-  },
-  {
-    "id": "2008_chevrolet_corvette_ls_based",
-    "year": "2008",
-    "make": "Chevrolet",
-    "model": "Corvette",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2008_ford_f_150_54l_3v",
+    "id": "2008_ford_f-150_54l_3v",
     "year": "2008",
     "make": "Ford",
     "model": "F-150",
     "trim": "5.4L 3V",
     "engineId": "ford_54_3v",
     "engineFile": "engines/ford/ford_54_3v.json"
+  },
+  {
+    "id": "2009_ford_f-150_54l_3v",
+    "year": "2009",
+    "make": "Ford",
+    "model": "F-150",
+    "trim": "5.4L 3V",
+    "engineId": "ford_54_3v",
+    "engineFile": "engines/ford/ford_54_3v.json"
+  },
 
-  },
-  {
-    "id": "2008_subaru_forester_xt",
-    "year": "2008",
-    "make": "Subaru",
-    "model": "Forester",
-    "trim": "XT",
-    "engineId": "subaru_ej255",
-    "engineFile": "lookups/engines/subaru/subaru_ej255.json"
-  },
-  {
-    "id": "2008_subaru_wrx_base",
-    "year": "2008",
-    "make": "Subaru",
-    "model": "WRX",
-    "trim": "Base",
-    "engineId": "subaru_ej255",
-    "engineFile": "lookups/engines/subaru/subaru_ej255.json"
-  },
-  {
-    "id": "2008_subaru_wrx_sti",
-    "year": "2008",
-    "make": "Subaru",
-    "model": "WRX",
-    "trim": "STI",
-    "engineId": "subaru_ej257",
-    "engineFile": "lookups/engines/subaru/subaru_ej257.json"
-  },
-  {
-    "id": "2009_chevrolet_corvette_ls_based",
-    "year": "2009",
-    "make": "Chevrolet",
-    "model": "Corvette",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2009_ford_f_150_54l_3v",
-    "year": "2009",
-    "make": "Ford",
-    "model": "F-150",
-    "trim": "5.4L 3V",
-    "engineId": "ford_modular_54_3v",
-    "engineFile": "lookups/engines/ford/ford_modular_54_3v.json"
-  },
-  {
-    "id": "2010_chevrolet_camaro_ls_based",
-    "year": "2010",
-    "make": "Chevrolet",
-    "model": "Camaro",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2010_chevrolet_corvette_ls_based",
-    "year": "2010",
-    "make": "Chevrolet",
-    "model": "Corvette",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2010_ford_f_150_54l_3v",
-    "year": "2010",
-    "make": "Ford",
-    "model": "F-150",
-    "trim": "5.4L 3V",
-    "engineId": "ford_modular_54_3v",
-    "engineFile": "lookups/engines/ford/ford_modular_54_3v.json"
-  },
-  {
-    "id": "2011_chevrolet_camaro_ls_based",
-    "year": "2011",
-    "make": "Chevrolet",
-    "model": "Camaro",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2011_chevrolet_corvette_ls_based",
-    "year": "2011",
-    "make": "Chevrolet",
-    "model": "Corvette",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
   {
     "id": "2011_ford_mustang_gt_coyote_gen1",
     "year": "2011",
@@ -439,88 +98,7 @@
     "model": "Mustang",
     "trim": "GT Coyote Gen1",
     "engineId": "ford_coyote_gen1",
-    "engineFile": "lookups/engines/ford/ford_coyote_gen1.json"
-  },
-  {
-    "id": "2012_chevrolet_camaro_ls_based",
-    "year": "2012",
-    "make": "Chevrolet",
-    "model": "Camaro",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2012_chevrolet_corvette_ls_based",
-    "year": "2012",
-    "make": "Chevrolet",
-    "model": "Corvette",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2012_ford_mustang_gt_coyote_gen1",
-    "year": "2012",
-    "make": "Ford",
-    "model": "Mustang",
-    "trim": "GT Coyote Gen1",
-    "engineId": "ford_coyote_gen1",
-    "engineFile": "lookups/engines/ford/ford_coyote_gen1.json"
-  },
-  {
-    "id": "2013_chevrolet_camaro_ls_based",
-    "year": "2013",
-    "make": "Chevrolet",
-    "model": "Camaro",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2013_chevrolet_corvette_ls_based",
-    "year": "2013",
-    "make": "Chevrolet",
-    "model": "Corvette",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2013_ford_mustang_gt_coyote_gen1",
-    "year": "2013",
-    "make": "Ford",
-    "model": "Mustang",
-    "trim": "GT Coyote Gen1",
-    "engineId": "ford_coyote_gen1",
-    "engineFile": "lookups/engines/ford/ford_coyote_gen1.json"
-  },
-  {
-    "id": "2014_chevrolet_camaro_ls_based",
-    "year": "2014",
-    "make": "Chevrolet",
-    "model": "Camaro",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
-  },
-  {
-    "id": "2014_ford_mustang_gt_coyote_gen1",
-    "year": "2014",
-    "make": "Ford",
-    "model": "Mustang",
-    "trim": "GT Coyote Gen1",
-    "engineId": "ford_coyote_gen1",
-    "engineFile": "lookups/engines/ford/ford_coyote_gen1.json"
-  },
-  {
-    "id": "2015_chevrolet_camaro_ls_based",
-    "year": "2015",
-    "make": "Chevrolet",
-    "model": "Camaro",
-    "trim": "LS-based",
-    "engineId": "gm_ls",
-    "engineFile": "lookups/engines/gm/gm_ls.json"
+    "engineFile": "engines/ford/ford_coyote_gen1.json"
   },
   {
     "id": "2015_ford_mustang_gt_coyote_gen2",
@@ -529,25 +107,7 @@
     "model": "Mustang",
     "trim": "GT Coyote Gen2",
     "engineId": "ford_coyote_gen2",
-    "engineFile": "lookups/engines/ford/ford_coyote_gen2.json"
-  },
-  {
-    "id": "2016_ford_mustang_gt_coyote_gen2",
-    "year": "2016",
-    "make": "Ford",
-    "model": "Mustang",
-    "trim": "GT Coyote Gen2",
-    "engineId": "ford_coyote_gen2",
-    "engineFile": "lookups/engines/ford/ford_coyote_gen2.json"
-  },
-  {
-    "id": "2017_ford_mustang_gt_coyote_gen2",
-    "year": "2017",
-    "make": "Ford",
-    "model": "Mustang",
-    "trim": "GT Coyote Gen2",
-    "engineId": "ford_coyote_gen2",
-    "engineFile": "lookups/engines/ford/ford_coyote_gen2.json"
+    "engineFile": "engines/ford/ford_coyote_gen2.json"
   },
   {
     "id": "2018_ford_mustang_gt_coyote_gen3",
@@ -556,52 +116,7 @@
     "model": "Mustang",
     "trim": "GT Coyote Gen3",
     "engineId": "ford_coyote_gen3",
-    "engineFile": "lookups/engines/ford/ford_coyote_gen3.json"
-  },
-  {
-    "id": "2019_ford_mustang_gt_coyote_gen3",
-    "year": "2019",
-    "make": "Ford",
-    "model": "Mustang",
-    "trim": "GT Coyote Gen3",
-    "engineId": "ford_coyote_gen3",
-    "engineFile": "lookups/engines/ford/ford_coyote_gen3.json"
-  },
-  {
-    "id": "2020_ford_mustang_gt_coyote_gen3",
-    "year": "2020",
-    "make": "Ford",
-    "model": "Mustang",
-    "trim": "GT Coyote Gen3",
-    "engineId": "ford_coyote_gen3",
-    "engineFile": "lookups/engines/ford/ford_coyote_gen3.json"
-  },
-  {
-    "id": "2021_ford_mustang_gt_coyote_gen3",
-    "year": "2021",
-    "make": "Ford",
-    "model": "Mustang",
-    "trim": "GT Coyote Gen3",
-    "engineId": "ford_coyote_gen3",
-    "engineFile": "lookups/engines/ford/ford_coyote_gen3.json"
-  },
-  {
-    "id": "2022_ford_mustang_gt_coyote_gen3",
-    "year": "2022",
-    "make": "Ford",
-    "model": "Mustang",
-    "trim": "GT Coyote Gen3",
-    "engineId": "ford_coyote_gen3",
-    "engineFile": "lookups/engines/ford/ford_coyote_gen3.json"
-  },
-  {
-    "id": "2023_ford_mustang_gt_coyote_gen3",
-    "year": "2023",
-    "make": "Ford",
-    "model": "Mustang",
-    "trim": "GT Coyote Gen3",
-    "engineId": "ford_coyote_gen3",
-    "engineFile": "lookups/engines/ford/ford_coyote_gen3.json"
+    "engineFile": "engines/ford/ford_coyote_gen3.json"
   },
   {
     "id": "2024_ford_mustang_gt_coyote_gen4",
@@ -610,24 +125,6 @@
     "model": "Mustang",
     "trim": "GT Coyote Gen4",
     "engineId": "ford_coyote_gen4",
-    "engineFile": "lookups/engines/ford/ford_coyote_gen4.json"
-  },
-  {
-    "id": "2025_ford_mustang_gt_coyote_gen4",
-    "year": "2025",
-    "make": "Ford",
-    "model": "Mustang",
-    "trim": "GT Coyote Gen4",
-    "engineId": "ford_coyote_gen4",
-    "engineFile": "lookups/engines/ford/ford_coyote_gen4.json"
-  },
-  {
-    "id": "2026_ford_mustang_gt_coyote_gen4",
-    "year": "2026",
-    "make": "Ford",
-    "model": "Mustang",
-    "trim": "GT Coyote Gen4",
-    "engineId": "ford_coyote_gen4",
-    "engineFile": "lookups/engines/ford/ford_coyote_gen4.json"
+    "engineFile": "engines/ford/ford_coyote_gen4.json"
   }
 ]
