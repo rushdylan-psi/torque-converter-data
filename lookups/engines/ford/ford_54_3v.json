@@ -8,7 +8,7 @@
   "notes": "MOCK DATA ONLY — for UI testing. Do not use for real assembly.",
   "procedures": [
     {
-      "id": "head_bolts",
+      "procedureId": "head_bolts",
       "title": "Cylinder Head Bolts",
       "category": "Cylinder Head",
       "verified": false,
@@ -19,7 +19,7 @@
       },
       "steps": [
         {
-          "id": "hb_s1",
+          "stepId": "hb_s1",
           "step": 1,
           "fastener": "Cylinder head bolts (all)",
           "torque": { "ftLb": 30, "nm": 41 },
@@ -28,7 +28,7 @@
           "source": "MOCK"
         },
         {
-          "id": "hb_s2",
+          "stepId": "hb_s2",
           "step": 2,
           "fastener": "Cylinder head bolts (all)",
           "torque": { "ftLb": null, "nm": null },
@@ -37,7 +37,7 @@
           "source": "MOCK"
         },
         {
-          "id": "hb_s3",
+          "stepId": "hb_s3",
           "step": 3,
           "fastener": "Cylinder head bolts (all)",
           "torque": { "ftLb": null, "nm": null },
@@ -48,14 +48,14 @@
       ]
     },
     {
-      "id": "main_bearings",
+      "procedureId": "main_bearings",
       "title": "Main Bearing Caps",
       "category": "Block",
       "verified": false,
       "warning": "MOCK DATA ONLY",
       "steps": [
         {
-          "id": "mb_s1",
+          "stepId": "mb_s1",
           "step": 1,
           "fastener": "Main cap bolts (inner)",
           "torque": { "ftLb": 25, "nm": 34 },
@@ -64,7 +64,7 @@
           "source": "MOCK"
         },
         {
-          "id": "mb_s2",
+          "stepId": "mb_s2",
           "step": 2,
           "fastener": "Main cap bolts (outer)",
           "torque": { "ftLb": 15, "nm": 20 },
@@ -73,7 +73,7 @@
           "source": "MOCK"
         },
         {
-          "id": "mb_s3",
+          "stepId": "mb_s3",
           "step": 3,
           "fastener": "Main cap bolts (all)",
           "torque": { "ftLb": null, "nm": null },
@@ -84,14 +84,14 @@
       ]
     },
     {
-      "id": "valve_cover",
+      "procedureId": "valve_cover",
       "title": "Valve Cover",
       "category": "Cylinder Head",
       "verified": false,
       "warning": "MOCK DATA ONLY",
       "steps": [
         {
-          "id": "vc_s1",
+          "stepId": "vc_s1",
           "step": 1,
           "fastener": "Valve cover bolts",
           "torque": { "ftLb": 8, "nm": 11 },
