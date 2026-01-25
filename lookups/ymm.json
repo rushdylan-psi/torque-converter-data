@@ -338,8 +338,9 @@
     "make": "Ford",
     "model": "F-150",
     "trim": "5.4L 3V",
-    "engineId": "ford_modular_54_3v",
-    "engineFile": "lookups/engines/ford/ford_modular_54_3v.json"
+    "engineId": "ford_54_3v",
+    "engineFile": "engines/ford/ford_54_3v.json"
+
   },
   {
     "id": "2008_subaru_forester_xt",
