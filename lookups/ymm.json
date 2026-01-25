@@ -1,20 +1,142 @@
 [
   {
-    "id": "2008_ford_f150_xlt_54_3v",
-    "year": "2008",
-    "make": "Ford",
-    "model": "F-150",
-    "trim": "XLT 5.4L 3V",
-    "engineId": "ford_54_3v",
-    "engineFile": "lookups/engines/ford_54_3v.json"
+    "id": "2002_subaru_impreza_wrx_ej205",
+    "year": "2002",
+    "make": "Subaru",
+    "model": "Impreza WRX",
+    "trim": "WRX EJ205 Turbo",
+    "engineId": "subaru_ej205",
+    "engineFile": "lookups/engines/subaru_ej205.json"
   },
   {
-    "id": "2008_ford_expedition_limited_54_3v",
-    "year": "2008",
-    "make": "Ford",
-    "model": "Expedition",
-    "trim": "Limited 5.4L 3V",
-    "engineId": "ford_54_3v",
-    "engineFile": "lookups/engines/ford_54_3v.json"
+    "id": "2005_saab_92x_aero_ej205",
+    "year": "2005",
+    "make": "Saab",
+    "model": "9-2X",
+    "trim": "Aero EJ205 Turbo",
+    "engineId": "subaru_ej205",
+    "engineFile": "lookups/engines/subaru_ej205.json"
+  },
+
+  {
+    "id": "2006_subaru_impreza_wrx_ej255",
+    "year": "2006",
+    "make": "Subaru",
+    "model": "Impreza WRX",
+    "trim": "WRX EJ255 Turbo",
+    "engineId": "subaru_ej255",
+    "engineFile": "lookups/engines/subaru_ej255.json"
+  },
+  {
+    "id": "2005_subaru_legacy_gt_ej255",
+    "year": "2005",
+    "make": "Subaru",
+    "model": "Legacy",
+    "trim": "GT EJ255 Turbo",
+    "engineId": "subaru_ej255",
+    "engineFile": "lookups/engines/subaru_ej255.json"
+  },
+  {
+    "id": "2004_subaru_forester_xt_ej255",
+    "year": "2004",
+    "make": "Subaru",
+    "model": "Forester",
+    "trim": "XT EJ255 Turbo",
+    "engineId": "subaru_ej255",
+    "engineFile": "lookups/engines/subaru_ej255.json"
+  },
+
+  {
+    "id": "2004_subaru_impreza_wrx_sti_ej257",
+    "year": "2004",
+    "make": "Subaru",
+    "model": "Impreza WRX STI",
+    "trim": "STI EJ257 Turbo",
+    "engineId": "subaru_ej257",
+    "engineFile": "lookups/engines/subaru_ej257.json"
+  },
+
+  {
+    "id": "2013_scion_frs_fa20d",
+    "year": "2013",
+    "make": "Scion",
+    "model": "FR-S",
+    "trim": "FA20D",
+    "engineId": "subaru_fa20d",
+    "engineFile": "lookups/engines/subaru_fa20d.json"
+  },
+  {
+    "id": "2013_subaru_brz_fa20d",
+    "year": "2013",
+    "make": "Subaru",
+    "model": "BRZ",
+    "trim": "FA20D",
+    "engineId": "subaru_fa20d",
+    "engineFile": "lookups/engines/subaru_fa20d.json"
+  },
+  {
+    "id": "2017_toyota_86_fa20d",
+    "year": "2017",
+    "make": "Toyota",
+    "model": "86",
+    "trim": "FA20D",
+    "engineId": "subaru_fa20d",
+    "engineFile": "lookups/engines/subaru_fa20d.json"
+  },
+
+  {
+    "id": "2015_subaru_wrx_fa20dit",
+    "year": "2015",
+    "make": "Subaru",
+    "model": "WRX",
+    "trim": "FA20DIT Turbo",
+    "engineId": "subaru_fa20dit",
+    "engineFile": "lookups/engines/subaru_fa20dit.json"
+  },
+  {
+    "id": "2014_subaru_forester_xt_fa20dit",
+    "year": "2014",
+    "make": "Subaru",
+    "model": "Forester",
+    "trim": "XT FA20DIT Turbo",
+    "engineId": "subaru_fa20dit",
+    "engineFile": "lookups/engines/subaru_fa20dit.json"
+  },
+
+  {
+    "id": "2022_subaru_wrx_fa24dit",
+    "year": "2022",
+    "make": "Subaru",
+    "model": "WRX",
+    "trim": "FA24DIT Turbo",
+    "engineId": "subaru_fa24dit",
+    "engineFile": "lookups/engines/subaru_fa24dit.json"
+  },
+  {
+    "id": "2020_subaru_outback_xt_fa24dit",
+    "year": "2020",
+    "make": "Subaru",
+    "model": "Outback",
+    "trim": "XT FA24DIT Turbo",
+    "engineId": "subaru_fa24dit",
+    "engineFile": "lookups/engines/subaru_fa24dit.json"
+  },
+  {
+    "id": "2020_subaru_legacy_xt_fa24dit",
+    "year": "2020",
+    "make": "Subaru",
+    "model": "Legacy",
+    "trim": "XT FA24DIT Turbo",
+    "engineId": "subaru_fa24dit",
+    "engineFile": "lookups/engines/subaru_fa24dit.json"
+  },
+  {
+    "id": "2019_subaru_ascent_fa24dit",
+    "year": "2019",
+    "make": "Subaru",
+    "model": "Ascent",
+    "trim": "FA24DIT Turbo",
+    "engineId": "subaru_fa24dit",
+    "engineFile": "lookups/engines/subaru_fa24dit.json"
   }
 ]
