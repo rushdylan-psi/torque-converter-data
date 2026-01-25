@@ -17,10 +17,6 @@
     "market": "USDM",
     "engineFile": "lookups/engines/ford/ford_modular_54_3v.json"
   },
-
-  // =========================
-  // FORD — Coyote
-  // =========================
   {
     "engineId": "ford_coyote_gen1",
     "displayName": "Ford 5.0L Coyote Gen 1 (2011–2014)",
@@ -57,10 +53,6 @@
     "market": "USDM",
     "engineFile": "lookups/engines/ford/ford_coyote_gen4.json"
   },
-
-  // =========================
-  // GM — LS Family (common high-value variants)
-  // =========================
   {
     "engineId": "gm_ls1",
     "displayName": "GM LS1 (5.7L)",
@@ -124,10 +116,6 @@
     "market": "USDM",
     "engineFile": "lookups/engines/gm/gm_lsx.json"
   },
-
-  // =========================
-  // SUBARU — EJ / FA (USDM-relevant)
-  // =========================
   {
     "engineId": "subaru_ej205",
     "displayName": "Subaru EJ205 (USDM WRX 02–05)",
