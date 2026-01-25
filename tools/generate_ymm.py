@@ -1,8 +1,9 @@
 import json
 
-def slug(s: str) -> str:
+def slug(s) -> str:
     return (
-        s.lower()
+        str(s)
+        .lower()
         .replace(" ", "_")
         .replace("-", "_")
         .replace("/", "_")
